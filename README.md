@@ -1,5 +1,5 @@
 ## Hi there 👋# 💫 About Me:
-I am currently working on my python.<br>I want to collaborate on projects.<br>I looking for help in enhance my GitHub profile.<br>I am currently learning python, HTML, CSS and JS.
+I am currently working on my python.<br>I want to collaborate on projects.<br>I looking for help in enhance my skills.<br>I am currently learning python, HTML, CSS and JS.
 
 
 # 💻 Tech Stack:
