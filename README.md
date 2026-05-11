@@ -1,4 +1,4 @@
-## Hi there 👋# 💫 About Me:
+## About Me:
 I am currently working on my python.<br>I want to collaborate on projects.<br>I looking for help in enhance my skills.<br>I am currently learning python, HTML, CSS, JS, React.js.
 
 
