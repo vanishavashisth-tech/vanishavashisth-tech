@@ -1,24 +1,21 @@
-## About Me:
-I am currently working on my python.<br>I want to collaborate on projects.<br>I looking for help in enhance my skills.<br>I am currently learning python, HTML, CSS, JS, React.js.
-
+## 👩‍💻 About Me
+- 🌱 Currently learning **Python, HTML, CSS, JavaScript, and React.js**
+- 💻 Working on improving my Python and web development skills
+- 🤝 Interested in collaborating on open-source and beginner-friendly projects
+- 📚 Always eager to learn new technologies and enhance my development skills
+- 🚀 Passionate about coding, problem-solving, and continuous growth
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📈 Goals
+- Build real-world projects
+- Contribute to open source
+- Improve problem-solving skills
+- Become a better full-stack developer
 
-<!--
-**vanishavashisth-tech/vanishavashisth-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
