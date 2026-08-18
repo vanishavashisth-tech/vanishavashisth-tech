@@ -1,9 +1,10 @@
 ## 👩‍💻 About Me
-- 🌱 Currently learning **Python, HTML, CSS, JavaScript, and React.js**
-- 💻 Working on improving my Python and web development skills
-- 🤝 Interested in collaborating on open-source and beginner-friendly projects
-- 📚 Always eager to learn new technologies and enhance my development skills
-- 🚀 Passionate about coding, problem-solving, and continuous growth
+💻 Web Developer passionate about building modern, responsive, and user-friendly applications
+⚛️ Working with React.js, JavaScript, Tailwind CSS, Node.js, Express.js, and MongoDB
+🌱 Continuously improving my skills in full-stack development, Data Structures, and problem-solving
+🎨 Interested in UI/UX, Figma, animations, and creating engaging user experiences
+🤝 Open to collaborating on open-source projects and innovative development ideas
+🚀 Passionate about learning, building real-world projects, and growing as a developer
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
